@@ -1,5 +1,4 @@
 [← Terug naar hoofdpagina](../README.md)
-
 # Discovery
 Max. 1000 woorden.   
 Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
